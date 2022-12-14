@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
+.header{
+    width:100%;
+    height: 85px;
+    background-color: black;
+    display: flex;
+}
+section{
+    display:block;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+}
+.spotilogo{
+    width:50%;
+
+}
+.spotilogin{
+    width: 50%;
+    float: left;
+    
+}
+.logolink{
+    margin-left: 185px;
+   
+
+}
+.imagelogo{
+    width: 150px;
+    height: 82px;
+    object-fit: contain;
+
+}
+table{
+    color: white;
+    border-spacing: 20px;
+    padding-top: 14px;
+    margin-left: 70px;
+    font-size: 15px;
+}
+td:hover{
+    color: rgb(161, 236, 11);
+    
+}
+html{
+    font-family: Helvetica,Arial,sans-serif;
+}
+.boldclass{
+    font-weight: bold;
+        
+    }
+
+.SecondSection{
+    width:100%;
+    height:580px;
+    background: url(https://www.scdn.co/i/free/bubbles-dktp.svg) center -138px / 100% 1068px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+    object-fit: contain;
+    display: flex;
+}
+.mobile{
+        width: 45%;
+        padding-top: 80px;
+    }
+
+.outermobile{
+   width : 301px;
+   height: 500px;
+   background: white;
+   margin-left: 297px;
+    background-image: linear-gradient(45deg,white);
+    
+    border-top-right-radius: 50px ;
+    border-top-left-radius: 50px;
+    object-fit: contain;
+    
+    
+ 
+}
+
+ .spotimobile{
+    padding-top: 50px;
+    padding-left: 14px;
+    height: 450px;
+    
+}
+.secondleft{
+    width: 55%;
+}
+.secondText{
+   
+    font-size: 59px;
+    font-weight: bold;padding-top: 213px;
+    color: white;
+    
+}
+.button button{
+    border-radius: 500px;
+    width: 207px;
+    background-color: white;
+    height: 50px;
+    text-align: center;
+    border: hidden;
+    margin-top: 50px;
+    
+}
+button:hover{
+    height: 56px;
+   width: 213px;
+}
+    
+
+
+.thirdsection{
+    width:100%;
+    height:580px;
+    object-fit: contain;
+    display: contents;
+    
+   
+}
+h2{
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40;
+    font-weight: 600;
+    text-align: center;
+
+}
+.list{
+    padding-left: 209px;
+    padding-top: 20px;
+}
+.img1{
+    width: 125px;
+    height: 125px;
+}
+
+.box1{
+    width:257px;
+    height: 211px;
+    object-fit: contain;
+    float: left;
+    text-align: center;
+}
+
+.listli{
+    list-style: none;
+
+}
+.firstpara{
+    font-weight: bold;
+    font-size: 20px;
+}
+.secondpara{
+    font-size: 15px;
+}
+.fourthsection{
+    width:100%;
+    height:500px;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+.fourthtext{
+    font-size: 59px;
+    font-weight: bold;
+    padding-top: 100px;
+    color: white;
+   
+    
+
+}
+.fourthpara{
+    text-align: center;
+}
+
+.fifthsection{
+    width:100%;
+    height:580px;
+    object-fit: contain;
+    display: contents;
+    
+
+}
+.fifthlist{
+    width:1200px
+}
+.fifthbox{
+    width: 100%;
+    height: 80px;
+    margin-left: 100px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(231, 226, 226);
+    border-bottom-style: solid;
+    
+    
+    
+}
+.fifthli{
+    list-style: none;
+    font-weight:bold ;
+    font-size: 18;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.fifthbox:hover{
+    background:rgb(237, 228, 228);
+
+}
+.sixthsection{
+    padding-top:100px;
+    height:450px;
+    width: 100%;
+    justify-content: center;
+    background: url(https://www.scdn.co/i/free/lets-play.svg) left -10px bottom -160px / 100% 1114px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) 16%, rgb(240, 55, 166)) rgb(108, 14, 224);
+}
+.innersixth{
+    
+     
+    width: 650px;
+    height: 200px;
+   padding-left: 124px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 137px;
+    justify-content: center;
+    
+}
+.sixthtext{
+    justify-content: center;
+    
+}
+.sixthpara{
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+
+}
+.sixthbutton button{
+    border-radius: 500px;
+    width: 207px;
+    background-color: white;
+    height: 50px;
+    text-align: center;
+    border: hidden;
+    justify-content: center;
+    
+    
+}
+button:hover{
+    height: 56px;
+   width: 213px;
+}
+.buttonouter{
+    padding-left: 166px;
+}
+
+.footersection{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    display: flex;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.innerfooter{
+    width: 80%;
+    height: 650;
+    
+    display: flex;
+}
+.footertable{
+    color: white;
+    float: left;
+   
+}
+.footerlist{
+    list-style: none;
+    display: inline;
+    
+}
+.footericon{
+    padding-left: 364px;
+    
+}
+.footerimage{
+    width: 50px;
+    height: 50px;
+    border-radius: 500px;
+    color: blue;
+}
+.endlist{
+    color: rgb(5, 5, 5);
+    display: inline;
+   
+    
+}
+.endfooter{
+    width:70%;
+   
+    
+background-color:black;
+    
+}
+.endli{
+    list-style: none;
+    display: inline;
+    color: rgb(250, 249, 249);
+    font-size: 12;
+    
+    
+}
+.a{
+    float: left;
+    margin-left: 10px;
+}
+.world{
+    height: 30px;
+    width: 30px;
+    border-radius: 500px;
+    
+}
+.world1{
+    height: 50px;
+    width: 50px;
+   border-radius: 500px;
+}
+.laws{
+    float: left;
+    width:30%;
+    margin-left: 600px;
+    background-color: black;
+    margin-bottom: 20px;
+}
+
+.mainfooter{
+    width: 100%;
+    background-color:black;
+    display: flex;
+}
+.earth{
+    padding-bottom: 10px;
+}
+world:hover{
+    color: rgb(161, 236, 11);
+}
+
+
+
+
+
+
